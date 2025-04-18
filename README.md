@@ -21,3 +21,5 @@ Technologies Used:
 ~OpenCV: Image pre-processing and analysis
 
 ~Flask/Streamlit (optional): For visualization/dashboard interface
+
+~Platforms: Jupyter Notebook , Arduino IDE
